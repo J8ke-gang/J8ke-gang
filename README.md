@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since September, 2024.<br>📚 I'm currently learning HTML5,CSS,JavaScript with the Odin Project.<br>🎯 Goals: My Goal is to be a web developer.<br>🎲 Fun fact: I did property maintenance for multiple multi acre property's.</p>
+<p align="left">✨ Web development since September, 2024.<br>📚 I'm currently learning HTML5,CSS,JavaScript with the Odin Project.<br>🎯 Goals: My Goal is to be a web developer.<br>🎲 Fun fact: I did property maintenance for multiple multi acre property's.</p>
 
 ###
 
